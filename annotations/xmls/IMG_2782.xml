@@ -1,0 +1,26 @@
+<annotation>
+  <folder>jpegmini_optimized</folder>
+  <filename>IMG_2782.jpg</filename>
+  <path>C:\Users\GOCCO_staff\Desktop\jpegmini_optimized\IMG_2782.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>486</width>
+    <height>557</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>build</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>147</xmin>
+      <ymin>61</ymin>
+      <xmax>391</xmax>
+      <ymax>483</ymax>
+    </bndbox>
+  </object>
+</annotation>

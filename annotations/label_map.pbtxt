@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'tent'
+}
+
+item {
+  id: 2
+  name: 'build'
+}
+
+item {
+  id: 3
+  name: 'house'
+}
